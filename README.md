@@ -9,7 +9,7 @@ Windows 7+<br/>
 Gnu/Linux:<br/>
 Mono Runtime 3.5+
 
-##How to Run on Ubuntu
+## How to Run on Ubuntu
 1- Install `mono-complete`on your system<br/>
 ```bash
 sudo apt-get install mono-complete
